@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dleiferives&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dleiferives&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dleiferives/dleiferives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
